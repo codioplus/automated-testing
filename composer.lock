@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d1e35743244610cd0d4d0b8b252cee7",
+    "content-hash": "c1cbd633fb70ba2ebfafeaa05e9674e2",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5379,16 +5379,16 @@
         },
         {
             "name": "laravel/dusk",
-            "version": "v6.17.1",
+            "version": "v6.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/dusk.git",
-                "reference": "20a23f4c92d253fa0d188413b1f820a6cc05a8e6"
+                "reference": "c99116b354a93faf9e75aeeeadc73445df705570"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/dusk/zipball/20a23f4c92d253fa0d188413b1f820a6cc05a8e6",
-                "reference": "20a23f4c92d253fa0d188413b1f820a6cc05a8e6",
+                "url": "https://api.github.com/repos/laravel/dusk/zipball/c99116b354a93faf9e75aeeeadc73445df705570",
+                "reference": "c99116b354a93faf9e75aeeeadc73445df705570",
                 "shasum": ""
             },
             "require": {
@@ -5444,7 +5444,7 @@
                 "testing",
                 "webdriver"
             ],
-            "time": "2021-08-17T15:11:47+00:00"
+            "time": "2021-09-07T14:28:13+00:00"
         },
         {
             "name": "laravel/sail",
